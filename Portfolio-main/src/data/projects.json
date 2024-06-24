@@ -1,0 +1,27 @@
+[
+    {
+      "title": "E-commerce-website",
+      "imageSrc": "projects/project1.png",
+      "description": "Design and developed the UI/UX for a minimalist, animated shoe e-commerce site with customization options and payements.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://66755d98543aae6887ed7b20--thunderous-cheesecake-24b178.netlify.app/",
+      "source": "https://github.com/vashisthg07/E-commerce-website.git"
+    },
+    {
+      "title": "Movie Detail website",
+      "imageSrc": "projects/project2.png",
+      "description": "Developed a movie app clone of IMDB featuring popular, top-rated, and upcoming movies & fetch api to display real-time movie data.",
+      "skills": ["React","CSS"],
+      "demo": "https://capable-seahorse-b77ff4.netlify.app/",
+      "source": "https://github.com/vashisthg07/Movie-app-Clone.git"
+    },
+   
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a project made to learn the latest languages by building a portfolio.",
+      "skills": ["React", "CSS"],
+      "demo": "",
+      "source": "https://github.com/vashisthg07/my-portfolio.git"
+    }
+  ]

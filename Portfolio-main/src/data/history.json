@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Sunpay Techonology Pvt Ltd.",
+    "startDate": "January 2024",
+    "endDate": "Current",
+    "experiences": ["Designed the multiple pages of frontend.","Calling API and send data to show in tabular form of data.","Make frontend responsive for all type of devices"],
+    "imageSrc": "history/sunpay.png"
+  }
+]
